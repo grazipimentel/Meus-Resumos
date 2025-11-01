@@ -1,0 +1,5 @@
+{
+  "name": "Explorador de Epigenômica Humana",
+  "description": "Uma aplicação web interativa que resume e explica os conceitos chave do livro 'Human Epigenomics' de Carsten Carlberg e Ferdinand Molnár. Navegue por capítulos, leia resumos gerados por IA e explore figuras e conceitos importantes.",
+  "requestFramePermissions": []
+}
